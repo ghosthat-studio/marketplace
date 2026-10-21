@@ -18,6 +18,7 @@ If this machine has no SSH key for GitHub, start Claude Code with
 
 | Plugin | What it does | Install |
 |---|---|---|
+| [handoffs](https://ghosthatstudio.com/toolbox/handoffs/) | A Claude Code mod that turns Claude's requests to you into checklist cards in a Handoffs pane, with steps to tick, decision buttons, and Open and Copy buttons. | `/plugin install handoffs@ghosthat-studio` |
 | [local-agents](https://ghosthatstudio.com/toolbox/local-agents/) | A skill that teaches Claude to build, run and debug agents on locally hosted models (Ollama, vLLM, llama.cpp, LM Studio, MLX) without starving the model of context, time, tools or reasons. | `/plugin install local-agents@ghosthat-studio` |
 
 Browse it inside Claude Code with `/plugin`, under **Discover**.
