@@ -13,7 +13,7 @@
       "source": {
         "source": "github",
         "repo": "ghosthat-studio/handoffs",
-        "ref": "v1.0.0",
+        "ref": "v1.0.1",
         "sha": "f8bcf9d8ee3edac7bf29472fee020df59a8ef9c0"
       },
       "description": "Turns Claude's requests to you into checklist cards in a Handoffs pane, with steps to tick, decision buttons, and Open and Copy buttons.",
@@ -31,7 +31,7 @@
       "source": {
         "source": "github",
         "repo": "ghosthat-studio/local-agents",
-        "ref": "v1.0.0",
+        "ref": "v1.0.1",
         "sha": "c85a320279cb320b9f94a7292b343e34d2391271"
       },
       "description": "Build, run and debug agents on locally hosted models (Ollama, vLLM, llama.cpp, LM Studio, MLX) without starving the model of context, time, tools or reasons.",
