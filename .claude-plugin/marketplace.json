@@ -11,8 +11,8 @@
     {
       "name": "handoffs",
       "source": {
-        "source": "github",
-        "repo": "ghosthat-studio/handoffs",
+        "source": "url",
+        "url": "https://github.com/ghosthat-studio/handoffs.git",
         "ref": "v1.2.1",
         "sha": "ffafafb481073d2083ca23e91befadb775a19564"
       },
@@ -29,8 +29,8 @@
     {
       "name": "local-agents",
       "source": {
-        "source": "github",
-        "repo": "ghosthat-studio/local-agents",
+        "source": "url",
+        "url": "https://github.com/ghosthat-studio/local-agents.git",
         "ref": "v1.0.0",
         "sha": "c85a320279cb320b9f94a7292b343e34d2391271"
       },
