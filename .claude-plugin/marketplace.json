@@ -13,8 +13,8 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ghosthat-studio/handoffs.git",
-        "ref": "v1.2.2",
-        "sha": "bee685d72205f014420e09049c20e9edb0423ed8"
+        "ref": "v1.2.3",
+        "sha": "1aac580fd2436e1faff31f21b27f805c942d57d7"
       },
       "description": "Turns Claude's requests to you into checklist cards in a Handoffs pane, with steps to tick, decision buttons, and Open and Copy buttons.",
       "category": "productivity",
